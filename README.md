@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NorseAI
+- 👋 Hi, I’m Kacper or just @NorseAI 
 - 👀 I’m interested in sharpening my programming knowledge
 - 🌱 I’m currently learning Python
 - 📫 You can reach me on: norseais@gmail.com
