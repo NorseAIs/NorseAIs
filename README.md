@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kacper or just @NorseAI 
-- 👀 I’m interested in sharpening my programming knowledge
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in sharpening my data analysis and data visualization knowledge
+- 🌱 I’m currently learning Tableau and then Python
 - 📫 You can reach me on: norseais@gmail.com
 
 <!---
